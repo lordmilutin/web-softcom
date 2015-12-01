@@ -1,0 +1,4 @@
+c:\Users\Nutic\Documents\Visual Studio 2013\Projects\WebSoftcom\WebSoftcom\obj\Release\WebSoftcom.csprojResolveAssemblyReference.cache
+c:\Users\Nutic\Documents\Visual Studio 2013\Projects\WebSoftcom\WebSoftcom\obj\Release\DataLayer.Form1.resources
+c:\Users\Nutic\Documents\Visual Studio 2013\Projects\WebSoftcom\WebSoftcom\obj\Release\WebSoftcom.DataLayer.Properties.Resources.resources
+c:\Users\Nutic\Documents\Visual Studio 2013\Projects\WebSoftcom\WebSoftcom\obj\Release\WebSoftcom.csproj.GenerateResource.Cache

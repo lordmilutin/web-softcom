@@ -1,0 +1,11 @@
+﻿.table-striped tr {
+    cursor: pointer;
+}
+
+.notopmargin{
+    margin-top: 0;
+}
+
+.well {
+    padding-top: 0;
+}
